@@ -1,0 +1,745 @@
+sim_time,zone_temp_c,pmv,site_electricity_j,cooling_setpoint_c,heating_setpoint_c,controller,note
+1.0,23.06199407905841,-0.8114077708594225,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+2.0,23.01515825817007,-0.8317447156488175,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+3.0,22.960337238434,-0.8544159798597915,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+4.0,22.89947146726375,-0.876073943333054,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+5.0,22.860637395366837,-0.8902355380395828,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+6.0,22.83124668619049,-0.8994788878004513,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+7.083333333333333,22.824702216924592,-0.8995140067342832,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+8.083333333333334,22.875189443230703,-0.8849215924991054,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+9.055555555555555,22.945173821454855,-0.8634281472551191,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+10.055555555555555,23.036771986891132,-0.8377757676206429,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+11.083333333333334,23.141027152411024,-0.8060019806589277,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+12.0,23.20107308127456,-0.7827032143026508,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+13.0,23.301763355459435,-0.7526003816776912,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+14.0,23.262300740588095,-0.7521101007052446,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+15.083333333333334,23.262648815417304,-0.7475887868345812,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+16.055555555555557,23.12658432647533,-0.776858907697523,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+17.083333333333332,23.03321700227897,-0.8017181099291295,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+18.0,23.04279437298104,-0.8010631940574742,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+19.083333333333332,23.04043551112988,-0.800116245319002,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+20.083333333333332,23.02779084288835,-0.8026759005902266,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+21.0,23.01462730593704,-0.8046777417829881,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+22.0,23.08391966065498,-0.7942208026835433,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+23.0,23.09768778025043,-0.7947930590580742,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+24.0,23.26152321606012,-0.7608388887889329,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+25.0,23.280145422355705,-0.7565373458359329,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+26.0,23.2818282550546,-0.7548331226521333,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+27.0,23.275155847106788,-0.7572676565228806,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+28.0,23.263126253106982,-0.7631341103309695,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+29.0,23.28965856448318,-0.7560576468926509,2750.026812004039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+30.083333333333332,24.4088810148852,-0.5115122284801473,5288.40080802132,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+31.083333333333332,24.078727497750908,-0.5494489280095199,6221.200946375141,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+32.083333333333336,24.499588399744137,-0.391827575383624,13426.066786326008,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+33.083333333333336,24.499501450962693,-0.3719762615443631,13778.153664679829,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+34.083333333333336,24.499465833788378,-0.3621984778067988,13983.145329061232,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+35.05555555555556,24.49961033723195,-0.3529401317207716,14228.112437714242,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+36.041666666666664,24.499798067404836,-0.3524574771355162,13755.873670782508,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+37.083333333333336,24.499367927841547,-0.3359389327535049,14858.43591672932,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+38.0,24.49902164997535,-0.327145858914085,14995.097858057105,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+39.083333333333336,24.499367032413012,-0.3208563603908359,15090.61084994303,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+40.08333333333333,24.499363154398495,-0.3109500524515577,15024.731900421204,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+41.05555555555556,24.99995015032425,-0.2283028983936493,9648.648106430348,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+42.05555555555556,24.499971902457364,-0.3534048361867339,7569.061496221768,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+43.05555555555556,24.999979275660216,-0.25344630482562,7179.289250663423,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+44.05555555555556,24.499953309248397,-0.3994296880619146,8414.54433546848,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+45.08333333333333,24.713027988642565,-0.3744538671709504,8125.669552884676,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+46.08333333333333,24.40751803707463,-0.4446229504308971,5053.026812004038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+47.0,24.231853107172448,-0.4904801839458125,4778.024130804039,25.0,19.5,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+48.0,24.079520203649466,-0.5344992349107408,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+49.0,23.88817060464971,-0.5884969120971404,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+50.0,23.78171211999951,-0.6273116483566337,4778.024130804039,25.0,19.5,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+51.0,23.6501889712641,-0.6713406222423012,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+52.0,23.513015130973073,-0.7207146806069973,4778.024130804039,25.0,19.5,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+53.0,23.487426056907378,-0.7422081426150882,2750.026812004039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+54.05555555555556,24.49999983138277,-0.5283066013316986,5505.446239905808,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+55.041666666666664,24.238101550550866,-0.5570136563463289,6380.750968794429,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+56.03333333333333,24.499821752809776,-0.4208274806636908,13555.161209083602,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+57.03333333333333,24.499784114244928,-0.3964551954706634,13846.841701647929,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+58.041666666666664,24.499709889344583,-0.3854630241469061,14092.320545139468,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+59.041666666666664,24.49960642266399,-0.388634097756215,14422.6106405705,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+60.083333333333336,24.49963799297968,-0.400967191449851,13740.705210258317,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+61.0,24.499059446077837,-0.3750327705373286,14821.5798878823,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+62.05555555555556,24.499585110758517,-0.3626761638956789,14814.134238768542,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+63.05555555555556,24.499608154632153,-0.3511965591989098,15081.39501480171,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+64.05555555555556,24.4995427527781,-0.3378445997909127,15187.97700874696,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+65.05555555555556,24.499890652135484,-0.3781836681704831,9951.616222657143,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+66.05555555555556,24.49996050535662,-0.3986981325104023,7977.6427929726,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+67.05555555555556,24.499971584047707,-0.4028150715577657,7635.223476028098,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+68.08333333333333,24.499986431732864,-0.4111957909602589,9011.66481949174,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+69.08333333333333,24.499985092270585,-0.4130518941058512,8814.970772069628,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+70.0,24.966358521370825,-0.3132861354426036,5053.026812004038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+71.0,24.907830924350748,-0.3184641127156689,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+72.0,24.624058763894695,-0.3848567732371112,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+73.0,24.440660148025877,-0.4391652434812306,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+74.0,24.31076476639293,-0.4823203311593855,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+75.0,24.19331822882006,-0.5156525760361537,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+76.0,24.142490901877807,-0.5277101342537498,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+77.0,24.132933382816233,-0.5211697431900475,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+78.08333333333333,24.222579931773673,-0.4872817396034359,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+79.05555555555556,24.51200051084987,-0.4121948009151358,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+80.05555555555556,24.6776175555023,-0.3602861201046353,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+81.05555555555556,24.83482570864732,-0.3021844761678146,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+82.08333333333333,25.001209657905093,-0.2354736452611545,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+83.05555555555556,24.979805501357447,-0.2359431992133969,1925.0187684040384,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+84.05555555555556,25.06750374060401,-0.2092693952254097,2445.069186056393,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+85.0,24.501851247690414,-0.320553914500112,2882.7918748027855,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+86.0,25.2975348621394,-0.1174452752027381,1925.0187684040384,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+87.04166666666667,24.50065362613033,-0.3005328815884575,2954.142569877493,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+88.08333333333333,25.48700171993862,-0.0657579580108147,2759.3115339026303,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+89.04166666666667,24.500172355867846,-0.2936238043853593,2961.986441766706,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+90.05555555555556,25.406960126821694,-0.071703973700747,4074.543217108403,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+91.08333333333331,24.49977509047793,-0.2847384458289301,2919.8339756458145,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+92.08333333333331,25.44980347529031,-0.0513949338160574,4228.018768404038,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+93.08333333333331,24.55298522698441,-0.2391910085473201,5219.973390270314,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+94.0,25.37808650437004,-0.053022478284233,4228.018768404038,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+95.08333333333331,24.552271558507943,-0.2331292254724739,5207.131007729605,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+96.0,25.450668507358543,-0.0319351329556581,4778.024130804039,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+97.0,24.500887840222536,-0.2626910884652765,5748.872272658141,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+98.08333333333331,24.893611500078464,-0.2073650322378025,4778.024130804039,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+99.0,25.409763940637895,-0.0732264063204593,4778.024130804039,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+100.08333333333331,24.551909687940388,-0.2700198682119875,5708.03056160938,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+101.0,24.502285528694753,-0.2943458487716561,3674.943666668791,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+102.0,24.99995690016269,-0.2121499811859446,7364.179061744839,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+103.05555555555556,24.49996293995236,-0.2874961679058218,9067.913576335905,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+104.04166666666669,24.999674346736267,-0.1061485268846349,16644.17413769079,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+105.04166666666669,24.499453753588483,-0.2156505722476957,17256.02786087095,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+106.05555555555556,24.999489408359956,-0.0899172975765157,17309.746360888497,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+107.05555555555556,24.49928571898036,-0.2046556186530035,17892.265262632263,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+108.0,24.999166085570877,-0.0885172661579295,16791.856122177098,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+109.0,24.4982506119661,-0.2003119743328476,18181.007517687205,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+110.0,24.998744667136748,-0.0773435594956313,18316.06118251406,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+111.08333333333331,24.498954465844506,-0.1951375678419458,18655.513586225225,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+112.08333333333331,24.999200352718717,-0.0661407453998084,18319.66634384105,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+113.05555555555556,24.499756184229952,-0.2178161831183178,12963.273439816086,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+114.05555555555556,24.999931850402017,-0.1176433442973093,10346.910447978053,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+115.05555555555556,24.4998981685009,-0.2396020621754004,10000.334533778876,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+116.08333333333331,24.99997297574076,-0.1287204245998766,10950.280740246631,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+117.0,24.499844919428018,-0.2502880066514688,10786.665351185797,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+118.08333333333331,25.367982865374326,-0.0677341500152323,5053.026812004038,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+119.0,24.500900000399135,-0.2624349396736099,5853.29106047641,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+120.0,25.000349620847203,-0.1609742163534414,5654.593970468001,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+121.08333333333331,24.527086438038634,-0.27098045787634,5730.89492205697,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+122.0,24.499929061955395,-0.3054811134288587,5755.051679242874,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+123.08333333333331,25.004427469281,-0.1866530990015689,5564.45862489028,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+124.08333333333331,24.87274322183852,-0.2342459132180414,4778.024130804039,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+125.0,25.124573129096905,-0.1688867049280341,2750.026812004039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+126.08333333333331,24.4998490067629,-0.3273005429995391,7412.603025668723,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+127.04166666666669,24.49999843545402,-0.2877700366646774,9149.73574112234,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+128.04166666666666,24.49955311017572,-0.2245063524710655,16892.308187041508,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+129.05555555555554,24.499392568063044,-0.2062725255459625,17464.52757997086,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+130.04166666666666,24.499478726517005,-0.1964181504324989,17742.391286042264,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+131.08333333333334,24.49901460219326,-0.1915087240525674,18128.185827947775,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+132.0,24.99914210308348,-0.0665650924390851,17243.389044722007,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+133.0,24.498132837011017,-0.1781518746410625,18581.24120369655,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+134.0,24.99862991737084,-0.0550495392722425,18663.41043699609,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+135.08333333333334,24.498929472315,-0.1729971872801453,18861.52311885773,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+136.08333333333334,24.999092482074925,-0.0455740235144438,18684.003265948555,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+137.05555555555554,24.499718831542257,-0.2008693336279315,13024.530312591882,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+138.04166666666666,24.99997142148393,-0.0903643284869424,10511.931332435135,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+139.04166666666666,24.49989505718679,-0.2220434703687257,8568.825125360587,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+140.05555555555554,24.99999406330044,-0.1108701014228695,9543.056133197311,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+141.08333333333334,24.499928799027124,-0.2369833126333357,9577.420838602551,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+142.08333333333334,25.117117652668608,-0.0972578427026034,5053.026812004038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+143.08333333333334,24.542149382999064,-0.2357400637171177,5635.799270764006,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+144.08333333333334,24.539437935648245,-0.2391002415786697,5060.005725098427,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+145.08333333333334,24.537732260639647,-0.2395153853606199,5053.4366443526105,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+146.0,24.961732501027804,-0.1519085626819243,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+147.08333333333334,24.537343013587552,-0.2130171360369082,5059.136422470501,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+148.0,24.92757532961034,-0.1392776621658017,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+149.0,24.89027467158589,-0.1358190045153963,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+150.0,24.499895666240885,-0.2821405393419657,6828.5363423580075,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+151.08333333333334,24.49995166870464,-0.2993392014416079,6451.48764976454,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+152.04166666666666,24.499910246206284,-0.3008116808808751,8557.994871436767,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+153.04166666666666,24.499864760026217,-0.3194059431018906,8880.464306636293,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+154.05555555555554,24.49989379594023,-0.3374583836963855,8824.08784318205,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+155.04166666666666,24.49985341103115,-0.358412276916177,9357.730107450188,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+156.08333333333334,24.49990034813148,-0.4020055676196589,7592.9153682691085,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+157.05555555555554,24.999997021274776,-0.300658994275776,7194.952341029477,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+158.04166666666666,24.499974254627897,-0.4071379512750471,7138.94322863408,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+159.08333333333334,24.9999844223669,-0.3075464551010016,6951.639336405835,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+160.08333333333334,24.49998625591615,-0.4068340831390825,6851.961907664934,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+161.05555555555554,24.999994449856473,-0.2858790616001365,5536.278950354432,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+162.08333333333334,24.94378815003957,-0.2651390193062581,1925.0187684040384,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+163.08333333333334,24.96951241152351,-0.2447034769166334,1925.0187684040384,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+164.08333333333334,24.95481651939489,-0.2481024034136032,4228.018768404038,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+165.0,24.956113730608063,-0.2524514815857168,4228.018768404038,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+166.0,24.869222419462687,-0.2713514398293178,4228.018768404038,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+167.0,24.79062893142429,-0.2855514560920637,4228.018768404038,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+168.0,24.75510209538755,-0.2833686125131374,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+169.0,24.68524942752303,-0.279898052876557,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+170.0,24.54693663552474,-0.2906633619802217,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+171.0,24.40138485867062,-0.3164578746278087,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+172.0,24.327640540853615,-0.3364641819813533,4228.018768404038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+173.0,24.194239800788974,-0.3741669687825297,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+174.08333333333334,24.314651452102773,-0.3491081045826009,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+175.08333333333334,24.387632375338008,-0.3148688960626944,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+176.05555555555554,24.506786891169003,-0.2692398770116669,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+177.04166666666666,24.831721004383567,-0.1700662361687465,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+178.04166666666666,24.950305334465547,-0.1070308642370187,1925.0187684040384,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+179.08333333333334,24.783210960738387,-0.1689022975613197,1925.0187684040384,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+180.08333333333334,25.0153625039954,-0.1323407371839003,1925.0187684040384,25.0,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+181.05555555555551,25.18991526205033,-0.0569329778413821,1925.0187684040384,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+182.08333333333337,24.539824487662703,-0.2180733495014827,2932.8567982749637,25.0,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+183.0,25.22453831260577,-0.0490614109151147,1925.0187684040384,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+184.08333333333337,24.548293619631263,-0.2046786139391188,3013.4215852498364,25.0,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+185.08333333333337,25.32930051742279,-0.0237827911882993,2640.9918288108065,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+186.05555555555551,24.519985656826655,-0.2087473829258951,2941.3961082161286,25.0,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+187.08333333333337,25.23789616972632,-0.0570722896050172,1925.0187684040384,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+188.08333333333337,24.53661191898754,-0.2277029503507267,5173.033966623477,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+189.08333333333337,24.996826092306364,-0.1225120826262544,4228.018768404038,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+190.0,24.87409341263344,-0.1430882319752855,4228.018768404038,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+191.0,24.992585438531144,-0.0775921665657145,4228.018768404038,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+192.0,24.917026305949182,-0.1179923492668743,4778.024130804039,24.5,19.0,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+193.0,24.967592278802393,-0.0889173783005052,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+194.0,24.95320028568304,-0.0876895733468731,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+195.0,24.989518218022432,-0.0863129543388424,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+196.0,24.941052634235525,-0.105039215340191,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+197.0,24.95160597367534,-0.1031698445734111,2750.026812004039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+198.0,24.499946234395328,-0.2713742630890515,6834.694516766884,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+199.0,24.499898706649414,-0.2717747900146671,7759.848598228454,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+200.08333333333337,24.49918141330601,-0.2412032125493066,15119.512758644254,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+201.0,24.498649631511388,-0.2539712069318137,14750.443777477542,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+202.08333333333337,24.499176506453995,-0.264517363000171,14979.208102993747,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+203.08333333333337,24.49919173548391,-0.2682689631962192,15181.023147736032,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+204.04166666666663,24.499709826170925,-0.2762383693688683,14365.4414394413,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+205.05555555555551,24.499387167336817,-0.269763323648611,15396.509792103334,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+206.0,24.498777443925537,-0.2718639175045941,15559.903353100077,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+207.08333333333337,24.49919956346048,-0.2755666715506745,15585.82805686723,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+208.05555555555551,24.49941799672417,-0.2784496217116376,15453.890659680364,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+209.05555555555551,24.99988660288067,-0.2131936387430028,9959.82888329234,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+210.04166666666663,24.49989497299876,-0.372282765293254,7729.461274763751,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+211.05555555555551,24.49993443231245,-0.4078553781315043,7247.675280251352,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+212.08333333333337,25.000091446157533,-0.3263060883392073,8554.8694086846,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+213.08333333333337,24.500118385919095,-0.4373642762896829,8396.154641838375,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+214.08333333333337,24.593969989360872,-0.4158693581717786,5053.026812004038,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+215.0,24.46469862754381,-0.4426166891898055,4778.024130804039,25.0,19.5,llm,"High-carbon and hot outdoor temperature, prioritizing energy savings"
+216.08333333333337,24.296521576574577,-0.4839733444108445,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+217.0,24.233441161787862,-0.5036962748440598,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+218.0,24.203493008925875,-0.5129289637916278,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+219.0,24.096311558857767,-0.540565635105876,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+220.0,24.05057607466253,-0.5573523737670771,4778.024130804039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+221.08333333333337,24.05898513985844,-0.5549599327858771,2750.026812004039,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+222.08333333333337,24.49998523903098,-0.470993321155805,5708.481664080597,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+223.05555555555551,24.50000835867953,-0.4165704155478487,6761.18071337491,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+224.05555555555551,24.49970490278467,-0.3223969083336143,14279.917124449355,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+225.08333333333337,24.49945391201438,-0.289656324181768,14820.211777306991,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+226.0,24.49903935538749,-0.2723346986865737,15202.5294048817,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+227.0,24.498797104304263,-0.2657379527907204,15145.696579936615,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+228.0,24.499260938641864,-0.2625364970858893,14251.138658899185,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+229.08333333333337,24.499214704643023,-0.2455637101632425,15706.47977029296,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+230.0,24.498718751226697,-0.24499186092288,15714.554880054704,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+231.08333333333337,24.49931401494337,-0.2377642629209144,15617.002410251103,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+232.08333333333337,24.49917725823819,-0.2345177826460995,15160.2476851826,25.0,19.5,llm,"High-carbon and hot peak hour, prioritizing energy savings"
+233.0,24.999851868757936,-0.145767206017981,9505.72244562026,24.5,19.0,llm,"High-carbon and hot peak hour, prioritizing energy savings"
+234.08333333333337,24.499919980770464,-0.2896132011236039,7506.046092611808,24.5,19.0,llm,"High-carbon and cool outdoor temperature, prioritizing energy savings"
+235.0,24.49991631617772,-0.3068620119778808,7452.756051304821,25.0,19.5,llm,"High-carbon and hot peak hour, prioritizing energy savings"
+236.0,24.999925501972548,-0.1911288917845786,8864.091933308182,24.5,19.0,llm,"High-carbon and hot peak hour, prioritizing energy savings"
+237.0,24.49996575261856,-0.29842881135339,8937.760380668115,25.0,19.5,llm,"High-carbon and hot peak hour, prioritizing energy savings"
+238.0,24.939729943477044,-0.1934953408680398,5053.026812004038,24.5,19.0,llm,"High-carbon and hot peak hour, prioritizing energy savings"
+239.0,24.8778734230555,-0.1933448770090182,4778.024130804039,25.0,19.5,llm,"High-carbon and hot peak hour, prioritizing energy savings"
+240.0,24.769701265369097,-0.2154432632751458,4778.024130804039,24.5,19.0,llm,"High-carbon and night time, prioritizing energy savings"
+241.0,24.72352541376227,-0.2259266165235317,4778.024130804039,24.5,19.0,llm,"High-carbon and night time, prioritizing energy savings"
+242.0,24.687010195060292,-0.2293531490510342,4778.024130804039,25.0,19.5,llm,"High-carbon and night time, prioritizing energy savings"
+243.0,24.651444129638943,-0.2326932323250596,4778.024130804039,24.5,19.0,llm,"High-carbon and night time, prioritizing energy savings"
+244.0,24.615654304929983,-0.2388509250577704,4778.024130804039,24.5,19.0,llm,"High-carbon and night time, prioritizing energy savings"
+245.0,24.619079320927483,-0.2347352982555886,2750.026812004039,25.0,19.5,llm,"High-carbon and night time, prioritizing energy savings"
+246.0,25.000106681126724,-0.1770342473839433,6142.243476132165,24.5,19.0,llm,"High-carbon and early morning, prioritizing energy savings"
+247.08333333333337,24.499946142714297,-0.2824942596035298,7276.483698640297,25.0,19.5,llm,"High-carbon and early morning, prioritizing energy savings"
+248.0,24.999127612106783,-0.1243116221165351,14666.06434589844,24.5,19.0,llm,"High-carbon and morning hours, prioritizing energy savings"
+249.0,24.49868419159944,-0.2398845524518946,14903.049000200874,25.0,19.5,llm,"High-carbon and morning hours, prioritizing energy savings"
+250.0,24.99907644061199,-0.11373115429219,14946.96195190954,24.5,19.0,llm,"High-carbon and morning hours, prioritizing energy savings"
+251.08333333333337,24.49917656697967,-0.2266563566341601,15290.68167227605,25.0,19.5,llm,"High-carbon and morning hours, prioritizing energy savings"
+252.08333333333337,24.999633559457855,-0.0992336084486905,14540.363147911166,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+253.08333333333337,24.49906164362958,-0.2120351632141124,15752.483111258323,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+254.0,24.998964334417416,-0.0851995017479694,15765.371616923912,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+255.0,24.498509890114327,-0.2073873242591119,16116.30774556033,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+256.0,24.998860541641097,-0.0789077553197662,16316.645671398972,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+257.0833333333333,24.499733535573267,-0.2329100009707331,10953.659525223253,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+258.05555555555554,24.999982515716464,-0.1289673407798542,8576.035241317002,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+259.0833333333333,24.49990631509552,-0.2552643939098875,8364.750443879293,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+260.0833333333333,24.999984828937812,-0.1490284607859173,9630.665546196262,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+261.0,24.49991011849472,-0.2663565727319795,9650.764525907834,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+262.0,25.22535981218987,-0.0898639872031501,5053.026812004038,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+263.0,24.95259156376648,-0.1669876909456506,4778.024130804039,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+264.0,25.04978353533621,-0.1274316340036397,4778.024130804039,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+265.0,24.91903939202053,-0.1694076371022866,4778.024130804039,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+266.0833333333333,24.83708204311899,-0.180450595469939,4778.024130804039,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+267.0,24.70524858063303,-0.2174356126862593,4778.024130804039,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+268.0,24.60146616072128,-0.2493008223816629,4778.024130804039,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+269.0,24.625238174544418,-0.2465503148075575,2750.026812004039,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+270.0833333333333,25.000004059399163,-0.1947142310884444,6249.390983828402,24.5,19.0,llm,"High-carbon and early morning hour, prioritizing energy savings"
+271.0833333333333,24.49997045139168,-0.2832978165636715,7406.147901507706,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+272.0833333333333,24.99949648450422,-0.1057445142826845,14966.463713712652,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+273.0,24.498590556649383,-0.221476696272293,15161.578604295606,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+274.03333333333336,24.99973846408902,-0.0882171584284556,15692.883547489564,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+275.0,24.498346773442012,-0.2210193498661058,15946.975515264876,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+276.05555555555554,24.999730567905623,-0.1072704836961446,14882.38092062568,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+277.0833333333333,24.498964403436453,-0.2220089481852984,16216.856084196355,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+278.0,24.99891620133385,-0.0993002907316026,16410.5740348341,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+279.05555555555554,24.499285165669725,-0.2166314615513709,16813.71964911734,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+280.05555555555554,24.999522634123817,-0.0928186627987836,16317.71638545512,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+281.0833333333333,24.49969371521123,-0.2471349119452526,11066.075504852182,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+282.05555555555554,24.999975983484735,-0.1488103336427047,8614.499159119085,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+283.0833333333333,24.49993716819932,-0.2679277519992906,8395.641872961556,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+284.0833333333333,25.00000206810481,-0.1471426002274859,9730.454119102946,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+285.0,24.499912204964204,-0.2588816543356719,9744.100575179553,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+286.0,25.303157068261896,-0.060617038341454,5053.026812004038,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+287.0833333333333,24.544332080462837,-0.2315024710625344,5689.667846306904,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+288.0,25.15091143172992,-0.1035307975499049,4778.024130804039,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+289.0,24.943801043051877,-0.1744026854803814,4778.024130804039,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+290.0,24.898102044951525,-0.1861310733406619,4778.024130804039,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+291.0,24.7426556898831,-0.2246627090329038,4778.024130804039,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+292.0,24.625221185243955,-0.2576693699859397,4778.024130804039,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+293.0,24.56081551408885,-0.2770748111633055,2750.026812004039,24.5,19.0,llm,"High-carbon and early morning hour, prioritizing energy savings"
+294.0833333333333,24.499940756399063,-0.330498770492882,6399.280305192136,24.5,19.0,llm,"High-carbon and early morning hour, prioritizing energy savings"
+295.0416666666667,24.499963351666644,-0.3202479394667919,7629.262400499118,25.0,19.5,llm,"High-carbon and early morning hour, prioritizing energy savings"
+296.03333333333336,24.99974146448786,-0.1533386363112439,15233.763828905234,24.5,19.0,llm,"High-carbon and early morning hour, prioritizing energy savings"
+297.05555555555554,24.499395970271472,-0.2648063983568691,15803.468558279212,25.0,19.5,llm,"High-carbon and morning hour, prioritizing energy savings"
+298.0833333333333,24.99942447235889,-0.1407681227063964,15903.909525610368,24.5,19.0,llm,"High-carbon and morning hour, prioritizing energy savings"
+299.0833333333333,24.49913399298125,-0.2524331928241144,16266.51399938697,25.0,19.5,llm,"High-carbon and morning hour, prioritizing energy savings"
+300.0,24.99931928496802,-0.1462627833608343,15577.6999699508,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+301.0,24.49843782444795,-0.2630924585537613,16543.27113890639,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+302.0,24.99887397274316,-0.1601651602624227,16405.04868820126,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+303.0833333333333,24.499122898992994,-0.275608073831104,16672.844198226976,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+304.0833333333333,24.999352098130615,-0.1554483001459947,16475.92784427217,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+305.05555555555554,24.49979424189623,-0.316358881828532,11164.748417122551,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+306.05555555555554,24.999969651543132,-0.2303127084429765,8747.048503185993,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+307.05555555555554,24.499931571849395,-0.3506862557994854,8343.72774811598,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+308.05555555555554,24.50000458217473,-0.3583255822980925,9500.83642976182,25.0,19.5,llm,"High-carbon and peak hour, prioritizing energy savings"
+309.0833333333333,25.00000756111064,-0.2335384268287984,9114.465238770905,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+310.0833333333333,25.150543669969167,-0.2063931959385116,5573.077229656393,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+311.0,24.970515319142624,-0.2288581050919067,4778.024130804039,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+312.0,24.706364364501912,-0.2827060928294399,4228.018768404038,24.5,19.0,llm,"High-carbon and peak hour, prioritizing energy savings"
+313.0,24.631065122547504,-0.2990193382854952,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+314.0,24.532149238062676,-0.3228461684440209,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+315.0,24.41560218422639,-0.354775641207142,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+316.0,24.33184398636096,-0.3837690880490703,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+317.0833333333333,24.33744425149372,-0.3911920165281105,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+318.0833333333333,24.49996121365654,-0.3763877222272876,6219.659614898606,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+319.05555555555554,24.49999443595693,-0.3713165185581288,6052.712072875833,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+320.0416666666667,24.499953474523934,-0.3535949332072867,8254.062918316129,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+321.0416666666667,24.499945277815904,-0.3510863922779548,8514.472762834946,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+322.05555555555554,24.499941151912164,-0.3486213709709445,8642.938680489111,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+323.05555555555554,24.499904751061784,-0.3537501300831275,8685.880137588381,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+324.0,24.49993520623497,-0.373999405819255,6752.078733760425,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+325.0833333333333,24.49996851863048,-0.3782171793242339,6816.8862251108785,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+326.0,24.499955040397456,-0.3797690555480241,6786.878667426377,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+327.0833333333333,24.499977699563587,-0.3779077666699943,6834.234902217748,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+328.05555555555554,24.499979413688532,-0.3781078124014707,6728.411905984673,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+329.0416666666667,24.499996087100993,-0.3928750648099799,5492.806088598395,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+330.05555555555554,24.635282915297704,-0.3549930559229085,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+331.05555555555554,24.651733461717377,-0.3475140581508232,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+332.0833333333333,24.61992131529825,-0.364840099168671,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+333.0833333333333,24.493373769696348,-0.3951715047982359,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+334.0,24.490646411092783,-0.3953785288951056,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+335.0,24.486455033578935,-0.3906764860350353,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+336.0,24.522280214784463,-0.3791774223718361,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+337.0,24.469384686511795,-0.3851723060848235,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+338.0,24.43225594707006,-0.3909088943773345,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+339.0,24.348930886275088,-0.4026185492026874,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+340.0,24.25513536186033,-0.414451729983515,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+341.0,24.20340106849734,-0.421469148719212,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+342.0833333333333,24.338439137128184,-0.3860189723424335,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+343.05555555555554,24.553248907776123,-0.3289467688203458,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+344.05555555555554,24.73611561302785,-0.2721496809475861,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+345.0416666666667,24.87671051323401,-0.2074274731317381,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+346.0416666666667,24.50041938773586,-0.2680491164523605,2863.358846033595,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+347.03333333333336,24.8366482350997,-0.1994623997405093,2965.1976859772603,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+348.0,25.341937043066498,-0.0696873363445702,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+349.0833333333333,24.50289095807976,-0.2698014572228766,3775.344504721152,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+350.0833333333333,25.035971674206376,-0.1134836659875359,3710.662072665528,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+351.0416666666667,24.499811006633003,-0.2588622661474188,3766.5733574158703,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+352.05555555555554,25.35613935794734,-0.0590165312810507,2776.4544523697346,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+353.05555555555554,24.49993954519755,-0.2543179649246226,3795.918876390134,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+354.05555555555554,25.281805664020723,-0.0799712505632692,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+355.0833333333333,24.502351762692197,-0.2509898014741458,2993.8198279155604,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+356.05555555555554,25.20229198108074,-0.0765926607845071,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+357.0833333333333,24.53321358843447,-0.2280413633003681,5101.609789242799,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+358.0,25.22399056188975,-0.0632351841507524,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+359.0833333333333,24.54929021256705,-0.1990000731820133,5220.709838649497,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+360.0,25.523399249322452,0.03790531922057,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+361.05555555555554,24.520580090098218,-0.1879851916784258,5678.024919914181,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+362.0833333333333,24.827459228765456,-0.1613967381222185,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+363.0,25.369715332332987,-0.0066653727356593,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+364.0833333333333,24.550157710819427,-0.1971948861217606,5741.930630397803,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+365.0,24.50208422967193,-0.2270253296044352,3712.564511650211,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+366.05555555555554,24.999939899261523,-0.1560380141006068,7658.073204101984,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+367.0416666666667,24.499941826020276,-0.2404704491155421,9569.506148793052,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+368.0416666666667,24.999580396685325,-0.075006401954595,17285.145882982157,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+369.05555555555554,24.499238286704916,-0.1950543277090264,17960.918933411405,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+370.0416666666667,24.99957305093255,-0.0685284212172242,18048.804629139,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+371.0416666666667,24.499407369722977,-0.18534928963911,18404.41865758823,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+372.0,24.999128593425237,-0.0641147999402726,17451.88625959052,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+373.0,24.49812574658188,-0.1759025452257927,18845.34647751364,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+374.0,24.99864067594052,-0.0483144424069193,18964.53236031496,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+375.0833333333333,24.498729807649102,-0.1713499825353571,19214.76472252081,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+376.05555555555554,24.99936844093805,-0.0437918175069327,18942.131120935144,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+377.05555555555554,24.49975081198228,-0.1924787213347688,13590.06575241013,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+378.0416666666667,24.99994293931796,-0.0848722845081927,10856.184057911967,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+379.05555555555554,24.499879015774624,-0.2091226298618038,10518.1872771183,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+380.0833333333333,24.99997822505488,-0.0869202683406143,11653.49399824816,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+381.0833333333333,24.49985744782367,-0.2107413755020204,11471.81792537063,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+382.0833333333333,25.405524772062627,-0.0103311020272781,5053.026812004038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+383.0,24.500672667458165,-0.2128492997084268,5925.23497486384,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+384.0,25.00013685510836,-0.0937379819811656,5715.607847058188,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+385.0833333333333,24.52792233457184,-0.1935613955517933,5788.3637893119085,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+386.0,24.499592623700565,-0.2248447815512786,5811.9950178909785,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+387.0,25.0001834920737,-0.0988944181679313,5649.7588649181835,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+388.0833333333333,24.52869335608535,-0.2080888520107557,5727.613462934178,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+389.0,24.4998185846557,-0.2392143518674091,3706.9436812149625,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+390.0833333333333,24.99990831018038,-0.1649468875869364,7591.631026468967,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+391.0416666666667,24.49995898173509,-0.2334562983678312,9733.901781026669,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+392.0416666666667,24.999569303066323,-0.0560024083245676,17777.878575816154,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+393.05555555555554,24.499088744691868,-0.1798400211457303,18427.777541544827,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+394.05555555555554,24.999404696752396,-0.0563550085345236,18403.82741307593,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+395.0833333333333,24.49886824848543,-0.1765477629922435,18730.758472159316,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+396.0833333333333,24.999412101793567,-0.0564843407817041,17974.592664669784,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+397.0,24.49815504763615,-0.1746566872517285,19059.926961765872,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+398.0,24.998592851400925,-0.0564585126874966,18886.956780756336,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+399.0833333333333,24.498963566618823,-0.171320332699718,19475.942210301233,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+400.05555555555554,24.999305731152532,-0.0461577535872381,19002.142949597022,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+401.05555555555554,24.49973222468694,-0.2046603672701916,13361.829231732092,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+402.05555555555554,24.9999431698256,-0.1028728325340926,10482.249718798166,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+403.0833333333333,24.499819038129058,-0.22950462087199,10361.665540309416,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+404.0833333333333,24.999961679328123,-0.1171453840194087,11313.990722339178,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+405.0,24.499791985134685,-0.2431693636583915,11365.22442896841,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+406.0833333333333,25.75228837840375,0.0356030904973392,5619.836680713065,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+407.0,24.49953764519226,-0.2315215047850336,5860.147969907854,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+408.0833333333333,25.35731675172209,-0.0378981255325553,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+409.0,24.50076853461052,-0.2257813348103099,5848.488405003022,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+410.05555555555554,24.97479639204477,-0.1416383268996151,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+411.0833333333333,25.294876686887584,-0.0457803981748533,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+412.0,24.500718850355657,-0.2302933286646933,5789.0156355707395,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+413.0833333333333,24.95792199048779,-0.1541968430902537,2750.026812004039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+414.0833333333333,24.99990611450366,-0.1659418948171487,7669.343291682133,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+415.0416666666667,24.499951814424065,-0.2451905027633285,9673.466314838162,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+416.0416666666667,24.999573444628066,-0.0737915069028761,17463.678804851636,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+417.0416666666667,24.49939575807295,-0.1905019301050589,18044.994490640944,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+418.05555555555554,24.99943178285766,-0.0638498876759351,18310.103515127637,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+419.0833333333333,24.498927816652905,-0.17972248966521,18680.317817536852,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+420.0833333333333,24.999425759028178,-0.0582314508395655,17903.989828615035,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+421.0,24.49806968970529,-0.1721803610624286,19058.1505629335,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+422.0,24.99864503195705,-0.0436334851664983,19072.35727310715,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+423.0833333333333,24.498763427440192,-0.1718717010231029,19183.898903010697,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+424.05555555555554,24.99940844656608,-0.0451389887434671,19275.23719127066,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+425.0416666666667,24.49980920088747,-0.1933215260884047,13436.670798763422,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+426.05555555555554,24.999935942715936,-0.084698553406646,10852.97170752249,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+427.05555555555554,24.499866032600902,-0.2112648510716516,10466.330114803422,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+428.0833333333333,24.999954868060172,-0.0972187955479806,11458.935990262358,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+429.0,24.49978051268123,-0.2197079517256597,11466.234324415424,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+430.0833333333333,25.024546446264875,-0.0909378833520521,6027.991704690761,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+431.0,24.49953964521357,-0.2297040906015125,5884.330465686399,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+432.0833333333333,25.362908887741504,-0.0369423133397269,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+433.0,24.500804024589193,-0.2280571462426481,5849.438151730821,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+434.05555555555554,24.963834214384,-0.1491513747022088,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+435.0833333333333,25.2792209861837,-0.0566471648523657,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+436.0,24.50073596627685,-0.2381875950074526,5767.491726048746,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+437.0833333333333,24.944367016289824,-0.1621764630591801,2750.026812004039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+438.0833333333333,24.999908939056137,-0.1690990287396805,7606.212927937844,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+439.0416666666667,24.499942756594624,-0.2435700538719663,9729.140939697743,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+440.05555555555554,24.99948222405058,-0.0687765719922312,17315.49581514534,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+441.05555555555554,24.499212505229615,-0.1844180682228121,18176.444143630004,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+442.0416666666667,24.999516963762375,-0.0599867955548177,18317.06488504161,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+443.05555555555554,24.499237958316183,-0.174491516030996,18991.594389229493,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+444.0833333333333,24.99947852147782,-0.0455943324944995,18009.32561527322,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+445.0,24.49794264218996,-0.1695668378444994,19102.0778323412,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+446.0,24.99855517381504,-0.0549487811790923,19162.31621953535,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+447.0833333333333,24.498899264983997,-0.1756107853606058,19634.2557218977,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+448.0833333333333,24.99922824297795,-0.0352258406754969,19447.097885808907,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+449.05555555555554,24.49980197929579,-0.1726243272541927,13826.329366986964,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+450.05555555555554,24.999933026330066,-0.0583774666384007,10935.629102222812,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+451.0833333333333,24.499806132039637,-0.1847796755114235,10653.82846005233,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+452.05555555555554,24.999933087670307,-0.0836878203958187,10647.769426232931,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+453.0833333333333,24.499904461753,-0.218890029291701,10596.258350392623,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+454.0,25.000162029267003,-0.0993362064256959,5935.838742252252,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+455.0833333333333,24.525913936250145,-0.2028480702738825,5751.835941375925,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+456.0,25.001736910696344,-0.1014860656776822,5676.350450412269,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+457.05555555555554,24.96007863489642,-0.1409666206371268,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+458.0,24.501049199963823,-0.249752528518264,5754.204190865328,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+459.0,25.514709079735056,-0.0130352861774309,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+460.0,24.500965838988883,-0.2528747560743861,5711.2739917020845,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+461.0833333333333,24.878794755485004,-0.1923704179832879,2750.026812004039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+462.0833333333333,24.999924673429145,-0.1856821553156736,7263.926464258429,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+463.05555555555554,24.49994023399224,-0.2721749882331577,8755.091357176476,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+464.0416666666667,24.49951771923658,-0.2243504536968526,16571.187256921,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+465.0416666666667,24.99960697019693,-0.0887651408447396,16798.46438813033,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+466.0416666666667,24.49939891008656,-0.2121302408362176,17134.045360488803,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+467.05555555555554,24.999374221922192,-0.1023714798058665,17034.312861179635,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+468.0,24.498825029422942,-0.2410401544047951,16226.205276900168,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+469.0,24.998685248119223,-0.1275534018799944,16820.08361650091,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+470.0833333333333,24.499025859564313,-0.2542327197448805,17050.21029149163,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+471.0833333333333,24.99931553293959,-0.1425902779697364,16968.756005495074,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+472.0833333333333,24.499151911819332,-0.2487910819864891,17118.2995514895,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+473.0416666666667,24.999934370994207,-0.1689412705071949,11212.327637588309,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+474.05555555555554,24.499884096199303,-0.3085575185974094,9025.73222076833,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+475.05555555555554,24.99996731794572,-0.2093907327306638,8355.198781533363,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+476.0833333333333,24.499954582807824,-0.3318358240075643,9837.744667999714,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+477.0833333333333,25.000015854004324,-0.2099351235195836,9437.233846267478,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+478.05555555555554,24.51951641707338,-0.3009063479515622,5837.029612970697,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+479.0833333333333,24.829583188949087,-0.2530870696160428,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+480.0,25.01557220059694,-0.1927170462792154,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+481.0,24.87523014714814,-0.2286009975889272,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+482.0,24.837646407924623,-0.2215291255211754,4228.018768404038,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+483.0,24.74318643178787,-0.2344962869116692,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+484.0,24.637638949693965,-0.2584306248396725,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+485.0,24.606591802933597,-0.2697616977555105,1925.0187684040384,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+486.05555555555554,24.99997433339689,-0.2040091493882133,6630.2465824200435,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+487.0416666666667,24.49998213531699,-0.3133771883136896,6762.373753196725,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+488.03333333333336,24.49995085049113,-0.3041212323332452,9026.815332990616,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+489.0416666666667,24.9999659811866,-0.1834715298097896,9116.357636872395,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+490.0416666666667,24.49989255527832,-0.3044922310836478,9456.42753953913,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+491.0833333333333,24.999921832707148,-0.1981859739367402,9233.610882646888,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+492.0833333333333,24.49993652777747,-0.326691044065498,7690.522291823094,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+493.0,24.999958015085557,-0.2193433275695146,7555.007443113589,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+494.0416666666667,24.499958134361297,-0.3355078090269128,7665.929332020025,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+495.0416666666667,24.999985755530965,-0.2431780483600221,7047.18041098639,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+496.05555555555554,24.499960166320044,-0.3669428731244251,6930.463749486193,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+497.05555555555554,24.99999017191095,-0.2407158639612817,5414.37641589881,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+498.0833333333333,24.812030527253476,-0.2444497102447842,1925.0187684040384,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+499.0833333333333,24.944424446441214,-0.196634357681093,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+500.0833333333333,24.944925057754887,-0.1933144463749118,4228.018768404038,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+501.0,24.897237184862576,-0.2003868274509136,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+502.0,24.88158814942117,-0.1990806013200493,4228.018768404038,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+503.0,24.87274535252838,-0.1934261350416648,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+504.0,24.71439681342274,-0.2197289864731897,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+505.0,24.602850483371633,-0.242856007966773,4228.018768404038,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+506.0,24.50748871475196,-0.2681684183352901,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+507.0,24.44448529298406,-0.2898248744925055,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+508.0,24.386972949965052,-0.3099732118682234,4228.018768404038,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+509.0,24.291259613615132,-0.339479019170096,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+510.05555555555554,24.394195297099323,-0.3150122701971879,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+511.03333333333336,24.728509774675857,-0.2308604895272134,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+512.0333333333333,24.922195442323677,-0.1745964528304771,2642.583993923885,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+513.0333333333333,24.723522898883033,-0.2377737555856165,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+514.0,25.06289768032124,-0.1886509442351132,2601.2786822002445,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+515.0833333333334,24.541110564611515,-0.3100183180387071,2866.67686850327,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+516.0833333333334,25.2413068004167,-0.1685291438833712,2342.692673590415,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+517.0555555555555,24.520457645915005,-0.3292546448931195,3489.171771251996,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+518.0,25.355891667363935,-0.1462692433905099,2539.740452476216,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+519.0555555555555,24.501246600524286,-0.3273920255032642,2909.3804493049247,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+520.0416666666666,25.40890553749653,-0.1128102558166082,3225.557898469644,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+521.0555555555555,24.500397457798034,-0.3194200249294671,2865.059962302382,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+522.0416666666666,25.439840448932337,-0.109716035104332,2532.0115486469635,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+523.0555555555555,24.500396630563017,-0.3209872696355628,2839.7068638022465,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+524.0833333333334,25.388228266135723,-0.1291703623929011,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+525.0555555555555,24.519064178464262,-0.3095433967068249,5050.8604894404025,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+526.0833333333334,25.18151645237682,-0.1670356379358406,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+527.0833333333334,24.982036252591627,-0.2101942565468444,4228.018768404038,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+528.0833333333334,25.08216052176261,-0.16247876836137,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+529.0,24.91551976347247,-0.20607342662093,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+530.0,24.86192492029269,-0.2044825071179241,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+531.0,24.8148552308306,-0.2116237947598351,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+532.0,24.733938931367422,-0.2315986208818268,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+533.0,24.71384304591385,-0.2379838901468842,2750.026812004039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+534.0555555555555,24.49991982123674,-0.3269809998599476,6639.063635352564,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+535.0333333333333,24.49998226794384,-0.3026309388626312,8469.151426028828,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+536.0333333333333,24.999730815574186,-0.1243525608390261,16311.102239520693,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+537.0333333333333,24.499530803052828,-0.2434141315806691,16833.60086482292,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+538.0555555555555,24.999479097947184,-0.1342230508115154,16853.634861969997,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+539.0833333333334,24.499129112088468,-0.2501956312713734,17022.71216084897,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+540.0555555555555,24.99964749993212,-0.1452895510790157,16201.586917724544,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+541.0,24.49857897878224,-0.2486463608255266,17320.632548682424,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+542.0833333333334,24.999383672674835,-0.1213563385827462,17455.003627604823,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+543.0555555555555,24.499365639354384,-0.2315896376646023,17438.18242803665,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+544.0833333333334,24.999272515995266,-0.1068197643034836,17486.27286169542,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+545.0555555555555,24.499784061903917,-0.2603800824213507,11993.67595184641,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+546.0416666666666,24.999973327321513,-0.1660991800246197,9365.844082962309,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+547.0555555555555,24.499933861964955,-0.2851085890388709,8989.154582202387,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+548.0833333333334,25.000002282323152,-0.1730841524955375,10178.959673762763,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+549.0833333333334,24.499952114803374,-0.2851671767030743,10085.25596250666,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+550.0,25.00182557586915,-0.1626509364016622,5891.989616892694,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+551.0833333333334,24.953645895067115,-0.1950870483633603,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+552.0,25.481910909947914,-0.0425470415415873,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+553.0,24.500936186335732,-0.2717150981813497,5684.589962789892,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+554.0,24.500284012523007,-0.2839770663745527,5662.267461341163,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+555.0,25.283524157789145,-0.1000927060789372,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+556.0833333333334,24.54444004510519,-0.2614395657639731,5644.9635553909875,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+557.0,24.502017533383977,-0.2859707658598401,3626.5034563094982,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+558.0833333333334,24.999954149268284,-0.2087326770521583,6963.003238687634,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+559.0416666666666,24.499974057400745,-0.2890186134966632,8718.509066315413,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+560.0416666666666,24.999663687073035,-0.110118498124687,16444.888590704737,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+561.0833333333334,24.49906704865365,-0.220000648400403,16830.121979976757,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+562.0833333333334,24.99932715964335,-0.0909295968303734,16994.366638401716,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+563.0555555555555,24.49929580236599,-0.2030340830480964,17272.225903225823,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+564.0833333333334,24.99958015676748,-0.0771278707178889,16719.993722800056,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+565.0,24.49818425808578,-0.1913472956652911,17979.62921936752,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+566.0,24.99875915173352,-0.0619969568239704,18310.916877346936,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+567.0,24.498268957387705,-0.1809794121495797,18719.743006188815,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+568.0833333333334,24.999115675341592,-0.0583250609828698,18192.45978015756,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+569.0555555555555,24.49977282214734,-0.2116149507083054,12806.254384093452,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+570.0555555555555,24.999955358833255,-0.1031525528200392,10286.423243264908,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+571.0555555555555,24.49990397145718,-0.2251110993685843,9942.705879025512,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+572.0833333333334,24.999987598593997,-0.1024833834787112,11056.395532178582,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+573.0,24.499817206278053,-0.2245338323253461,11035.75218820132,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+574.0833333333334,25.36796757335238,-0.0375258865494907,5053.026812004038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+575.0,24.50068385696682,-0.2285104189344146,5866.262418547836,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+576.0555555555555,24.983707103204253,-0.1438945259034172,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+577.0833333333334,25.285850704706945,-0.0600145339174,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+578.0,24.500720099685218,-0.243007704317056,5802.082063546271,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+579.0833333333334,24.897230343586862,-0.177049522851336,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+580.0,25.42662452411317,-0.0136389662920142,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+581.0833333333334,24.549278941498343,-0.210157495540287,3657.346361809789,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+582.0,24.499821661763907,-0.2936900793058695,7130.238763551899,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+583.0,24.999907382627367,-0.1445148588836133,7926.65433059899,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+584.0555555555555,24.49934148276602,-0.2146180931579686,15733.020727322004,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+585.0555555555555,24.999526933191667,-0.0778176676955099,16252.208692773216,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+586.0,24.498412986550512,-0.1974651210697285,16224.62931771208,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+587.0833333333334,24.99925930769037,-0.0690622216416506,16341.022441152454,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+588.0555555555555,24.49948874138601,-0.1923536472021665,16091.97780596586,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+589.0416666666666,24.999549487673235,-0.0555776531494367,17298.16784396316,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+590.0,24.49829285866107,-0.185993815987587,17890.431322534954,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+591.0,24.99871177313594,-0.0708864776188216,17412.53549399458,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+592.0833333333334,24.498884425609056,-0.1973945920054419,17559.50257779818,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+593.0416666666666,24.99992856195724,-0.1105146190325998,11540.969630961545,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+594.0416666666666,24.499919474904576,-0.2456583533853761,9057.926806435353,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+595.0555555555555,24.49992766215081,-0.2614460845664375,8409.822795679214,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+596.0833333333334,24.99999305589544,-0.1492027670913111,9644.586518799537,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+597.0833333333334,24.49991377453752,-0.2770833749402839,9554.85561790138,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+598.0,25.301889963693807,-0.0990439880831861,5053.026812004038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+599.0833333333334,24.539385490275336,-0.2696214641928779,5593.018068494871,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+600.0,25.063736534075662,-0.1625703789044749,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+601.0,24.956916321226547,-0.1963370794395834,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+602.0,24.949800029864843,-0.1796258249433395,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+603.0,24.824253518665184,-0.2009818740026693,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+604.0,24.80003409448839,-0.2082120311511568,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+605.0,24.797731746027655,-0.2035443582263427,2750.026812004039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+606.0555555555555,24.99997936703923,-0.1891202640350301,6620.91271743966,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+607.0416666666666,24.49995958985806,-0.2876960802963204,7962.004384145534,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+608.0555555555555,24.99956612691025,-0.1253572995615382,15231.059131068436,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+609.0333333333333,24.49959033046366,-0.2417906025257961,15798.031895040467,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+610.0416666666666,24.999648797177677,-0.1193788387702722,16051.453741485144,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+611.0833333333334,24.49911863939742,-0.2341324562304773,16306.849433824198,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+612.0833333333334,24.999584164463116,-0.1171114486453181,15438.971458743064,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+613.0,24.498432303233542,-0.2355872214395511,16643.88890595026,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+614.0,24.998837006964756,-0.1277447515304338,16518.697192548283,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+615.0555555555555,24.49922857385798,-0.2558413584888002,16388.754601217002,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+616.0555555555555,24.999566434169065,-0.1349431736779534,16256.523484175585,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+617.0555555555555,24.499845256212588,-0.2840759764080068,10902.445676565292,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+618.0555555555555,24.999963383425325,-0.1873305070240378,8638.481170881352,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+619.0555555555555,24.499908793803577,-0.3132258166889971,8306.911962003864,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+620.0555555555555,25.000024250588663,-0.1933154360604939,9500.277731177794,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+621.0833333333334,24.499991277575035,-0.2889318672924602,9523.13316465155,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+622.0,25.300674415704993,-0.0959041075054934,5053.026812004038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+623.0833333333334,25.14512412067493,-0.1395606820756046,5298.074548456393,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+624.0,25.07073918306327,-0.1426786589952595,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+625.0,24.966021338876512,-0.1785308763443262,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+626.0,24.875699319814498,-0.1844124420412146,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+627.0,24.813259143284952,-0.1970827646000218,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+628.0,24.805276752478026,-0.2002697676610748,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+629.0,24.67627351935355,-0.2302146597840334,2750.026812004039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+630.0416666666666,24.999979629797988,-0.1919695489174557,6567.175628838082,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+631.0333333333333,24.499967721826543,-0.281495035749547,8258.920436229113,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+632.0333333333333,24.999676758622783,-0.1218941145883552,15950.62647517839,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+633.0416666666666,24.49943861067247,-0.2488178537548705,16335.8060130812,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+634.0555555555555,24.99949819267733,-0.1379733112275619,16470.098320102697,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+635.0555555555555,24.49931396510994,-0.2608026230254633,16635.665852704005,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+636.0833333333334,24.999588433849674,-0.1538234888332889,15898.898821264536,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+637.0,24.49850478191538,-0.2616456904128091,17037.04619502482,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+638.0833333333334,24.99934691223225,-0.1473576501565023,17109.09411422718,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+639.0833333333334,24.499195472074224,-0.2553410902973242,17557.029512864483,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+640.0555555555555,24.999542656536313,-0.1274174701920383,17529.429815385673,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+641.0555555555555,24.49981715745988,-0.2771421467802134,11984.669628603982,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+642.0416666666666,24.99998578961182,-0.1756230669365103,9489.5362394711,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+643.0555555555555,24.499946862179417,-0.2879392929371434,9305.940489419145,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+644.0833333333334,24.999996975600983,-0.1710022121126876,10397.243587961246,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+645.0,24.49988891006222,-0.2789781547968513,10443.746367166768,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+646.0,25.000289965255373,-0.1606856910080153,5920.66769741021,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+647.0833333333334,24.525225155282833,-0.2587236970440912,5721.239079373607,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+648.0,25.455411540198668,-0.0531293535595911,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+649.0833333333334,24.908407207812047,-0.1812464640863572,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+650.0833333333334,24.861707781051617,-0.1868093337547049,4228.018768404038,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+651.0,24.807908285927873,-0.1932542420784816,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+652.0,24.757295353933564,-0.2031520137118753,4228.018768404038,24.8,19.0,llm,Maintaining comfort while considering low-carbon and non-peak hour conditions
+653.0,24.74418263520377,-0.2039341363881043,1925.0187684040384,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+654.0833333333334,24.999966179700117,-0.1787891496846728,6635.623313333007,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+655.0555555555555,24.499969087391925,-0.2887255654014268,6823.389367172894,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+656.0555555555555,24.999971408534982,-0.1527786072934339,8967.317656971776,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+657.0833333333334,24.499870889968683,-0.2561807631115803,9298.83175140372,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+658.0416666666666,24.99997876283115,-0.1229248201974016,9758.40107650333,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+659.0555555555555,24.49984193037579,-0.2399072035105387,10333.500844817598,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+660.0555555555555,24.99997551026945,-0.1359699525243465,8443.802734783974,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+661.0833333333334,24.499884211769206,-0.2613020642675376,8624.339728539539,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+662.0,24.999968431006376,-0.158610778105151,8403.08090520209,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+663.0,24.499873902962687,-0.2807124492126804,8479.802051920391,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+664.0555555555555,24.99999954995398,-0.1610890493667841,7698.839152239127,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+665.0555555555555,24.499983940999265,-0.2797700588424506,6878.937126919947,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+666.0555555555555,25.216310666384913,-0.0964508276779257,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+667.0555555555555,24.51464897315505,-0.2606535386252099,2823.0412768132965,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+668.0555555555555,25.030170887530364,-0.1528411735550071,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+669.0833333333334,24.85208054226455,-0.2004676124778688,4228.018768404038,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+670.0,24.856158586428645,-0.185876905614674,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+671.0,24.699855952161997,-0.2123307872745409,4228.018768404038,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+672.0,24.64564163825545,-0.2240161681098096,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+673.0,24.656973543779703,-0.2237284400326626,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+674.0,24.63862706763237,-0.2357357641713691,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+675.0,24.60532257884448,-0.2539877047120661,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+676.0,24.56440295021285,-0.2730628742090688,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+677.0,24.524957839344125,-0.2892213702871872,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+678.0833333333334,24.621065277194823,-0.2681242377015978,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+679.0555555555555,24.796180826403855,-0.2222470122487928,2342.692673590415,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+680.0416666666666,24.902292623791077,-0.1951583082771365,2618.4871240601883,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+681.0416666666666,24.796302926355864,-0.213229192156424,3482.8470397955525,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+682.0416666666666,24.508812531676966,-0.2915846860176047,3394.215135065412,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+683.0555555555555,24.52423218536783,-0.3155906249045994,2795.8989815299947,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+684.0555555555555,24.499988037317276,-0.3430433721711736,2796.2934385266094,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+685.0833333333334,25.261494999898396,-0.1773943876007223,1925.0187684040384,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+686.0833333333334,24.550747271973044,-0.3316990220562897,2879.772167434908,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+687.0555555555555,25.398214751516075,-0.1674061813241794,2675.463655460625,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+688.0333333333333,24.500147784476457,-0.3718709304652245,2822.7940590854028,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+689.0416666666666,25.440952372951305,-0.1756714432692855,2739.7590692280687,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+690.0416666666666,24.50009715191122,-0.3744563307395199,2801.648146314278,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+691.0416666666666,25.355783921455224,-0.1937978786985402,2514.565105882509,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+692.0555555555555,24.51505386458286,-0.3729764262496586,4994.333676148772,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+693.0833333333334,25.112642562202396,-0.2607207725920585,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+694.0,24.9629055991277,-0.2925823471676912,4228.018768404038,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+695.0833333333334,24.815976654844192,-0.2986733550622975,4228.018768404038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+696.0,24.860000753170823,-0.2712411568126462,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+697.0,24.837838863862675,-0.2650284941106453,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+698.0,24.807876028996834,-0.266983669795769,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+699.0,24.611970995366153,-0.3107569441525245,4778.024130804039,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+700.0,24.55164765815144,-0.3342214486629316,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+701.0,24.489340117882943,-0.3552939225333633,2750.026812004039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+702.0833333333334,24.4999580980728,-0.3832708662013239,6200.015354418449,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+703.0416666666666,24.49999753446587,-0.3533282654397728,7366.845137564378,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+704.0416666666666,24.499654237274846,-0.2859045656124832,15175.043234707122,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+705.0416666666666,24.499550599448632,-0.2783628145159409,15533.181350859955,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+706.0416666666666,24.499570896582703,-0.278106046136058,15959.35146902618,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+707.0416666666666,24.499536280766705,-0.2777178529208909,16385.94569976153,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+708.0833333333334,24.49946022650727,-0.2864120478112912,15860.88289672846,25.0,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+709.0833333333334,24.99931957117836,-0.1596549087364628,16488.277096038986,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+710.0,24.498618099330816,-0.2804905130305383,16551.182674482472,25.0,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+711.0833333333334,24.999243069665184,-0.1762627769015222,16435.30032885446,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+712.0555555555555,24.4995101771525,-0.2787959594450937,16647.567353660088,25.0,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+713.0555555555555,24.99988170668426,-0.2089616018218627,10976.216821659516,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+714.0555555555555,24.49991444291342,-0.3514908935233762,8844.6869694895,25.0,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+715.0555555555555,24.999960269231025,-0.2583984099372086,8262.348608397093,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+716.0833333333334,24.500001049266956,-0.3705837138457463,9805.396257827351,25.0,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+717.0833333333334,25.00000525728035,-0.248139751598187,9499.460736729814,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+718.0833333333334,24.55348050100647,-0.3298318991376857,5924.793548827349,25.0,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+719.0,25.295768740365972,-0.1678088353966046,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+720.0833333333334,24.54007092743876,-0.3184151137557869,5568.603434304605,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+721.0833333333334,24.929538184380576,-0.2415933787501277,4778.024130804039,25.0,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+722.0,25.061405115732367,-0.2001423204487321,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+723.0,24.96566926576588,-0.2330044227444561,4778.024130804039,25.0,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+724.0,24.988690031650385,-0.2197354196258382,4778.024130804039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+725.0,24.84560795066809,-0.2385652705490015,2750.026812004039,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+726.0833333333334,24.49992079630212,-0.3494236363380159,6542.094883327338,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+727.0416666666666,24.499954139626325,-0.3351718379974755,8050.55350083898,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+728.0333333333333,24.4996885697677,-0.2799904879219853,15620.809852173024,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+729.0333333333333,24.49964130156544,-0.2674952887783642,16275.622537258776,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+730.0416666666666,24.499557694035943,-0.2619625474793495,16696.553754857196,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+731.0833333333334,24.49907898820416,-0.263272761955829,16860.152031741094,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+732.0833333333334,24.999614506814883,-0.1473288174178139,16207.205759348522,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+733.0833333333334,24.499310962440138,-0.2294459910931676,17875.91905065248,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+734.0833333333334,24.999216703097613,-0.1037197862513547,17601.646702787213,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+735.0416666666666,24.499488169315537,-0.2195950139554152,17159.790659288454,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+736.0555555555555,24.999488099386195,-0.089552054550023,17205.146758739607,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+737.0555555555555,24.49982857199838,-0.236994070679564,11276.259482508123,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+738.0555555555555,24.999930581439212,-0.146859883087894,8827.699489170318,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+739.0555555555555,24.49989423252781,-0.2846063509550229,8544.670879437324,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+740.0833333333334,24.999955313464056,-0.1912847588472113,9837.59163759508,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+741.0833333333334,24.499917386860055,-0.3207623135833807,9692.216130921886,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+742.0,25.452966960414496,-0.1326096505454208,5053.026812004038,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+743.0833333333334,24.55027716985945,-0.331771995663327,5592.791796734578,24.5,19.0,llm,Maintaining comfort while considering high-carbon and peak hour conditions
+744.0,24.502110561726862,-0.3619621361186093,5580.888664173904,25.0,19.5,llm,Maintaining comfort while considering high-carbon and peak hour conditions
