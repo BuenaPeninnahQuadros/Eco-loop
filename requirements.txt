@@ -1,0 +1,7 @@
+# pyenergyplus is NOT listed here — it ships inside your EnergyPlus install
+# and is added to sys.path at runtime via config.ENERGYPLUS_INSTALL_DIR.
+
+pandas>=2.0
+matplotlib>=3.8
+requests>=2.31       # for calling a local Ollama or hosted LLM endpoint
+python-dotenv>=1.0   # optional, if you prefer .env over editing config.py
