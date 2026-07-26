@@ -1,0 +1,32 @@
+Program Version,EnergyPlus, Version 26.1.0-6f2e40d102, YMD=2026.07.26 19:32,
+   ************* Beginning Zone Sizing Calculations
+   ************* Beginning System Sizing Calculations
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** Check input. Pump nominal power or motor efficiency is set to 0, for pump=SWHSYS1 PUMP
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:NATURALGAS" - not found.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** Processing Monthly Tabular Reports: Variable names not valid for this simulation
+   **   ~~~   ** ...use Output:Diagnostics,DisplayExtraWarnings; to show more details on individual variables.
+   ** Warning ** Data Exchange API: You seem to already have tried to get an Actuator Handle on this one.
+   **   ~~~   ** Occurred for componentType='ZONE TEMPERATURE CONTROL', controlType='COOLING SETPOINT', uniqueKey='CORE_ZN'.
+   **   ~~~   ** The getActuatorHandle function will still return the handle (= 545) but caller should take note that there is a risk of overwriting.
+   ** Warning ** Data Exchange API: You seem to already have tried to get an Actuator Handle on this one.
+   **   ~~~   ** Occurred for componentType='ZONE TEMPERATURE CONTROL', controlType='HEATING SETPOINT', uniqueKey='CORE_ZN'.
+   **   ~~~   ** The getActuatorHandle function will still return the handle (= 544) but caller should take note that there is a risk of overwriting.
+   ** Warning ** Data Exchange API: You seem to already have tried to get an Actuator Handle on this one.
+   **   ~~~   ** Occurred for componentType='ZONE TEMPERATURE CONTROL', controlType='COOLING SETPOINT', uniqueKey='CORE_ZN'.
+   **   ~~~   ** The getActuatorHandle function will still return the handle (= 545) but caller should take note that there is a risk of overwriting.
+   ** Warning ** Data Exchange API: You seem to already have tried to get an Actuator Handle on this one.
+   **   ~~~   ** Occurred for componentType='ZONE TEMPERATURE CONTROL', controlType='HEATING SETPOINT', uniqueKey='CORE_ZN'.
+   **   ~~~   ** The getActuatorHandle function will still return the handle (= 544) but caller should take note that there is a risk of overwriting.
+   ************* Simulation Error Summary *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 4 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 7 Warning; 0 Severe Errors; Elapsed Time=00hr 00min  1.00sec
